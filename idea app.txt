@@ -1,0 +1,7 @@
+app que consome api de banco de dados e back
+
+biblioteca de livros que já li
+filmes que já assisti
+séries que já assisti
+
+react e firebase
